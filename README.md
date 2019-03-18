@@ -1,6 +1,7 @@
 # ignis
 
 EN: Platform supporting operation of Volunteer Fire Departments (OSP) in Poland.
+
 PL: Platforma wspomagająca działanie jednostek Ochotniczej Straży Pożarnej (OSP) w Rzeczypospolitej Polskiej.
 
 ## Getting Started
@@ -9,7 +10,7 @@ No informations at this moment.
 
 ### Prerequisites
 
-See Built with.
+See [Built with](#built-with).
 
 ### Installing
 
