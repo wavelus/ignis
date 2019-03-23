@@ -1,5 +1,7 @@
 # ignis
 
+![ignis_logo](documentation/resources/ignis_logo.png)
+
 EN: Platform supporting operation of Volunteer Fire Departments (OSP) in Poland.
 
 PL: Platforma wspomagająca działanie jednostek Ochotniczej Straży Pożarnej (OSP) w Rzeczypospolitej Polskiej.
@@ -32,7 +34,7 @@ No informations at this moment.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](documentation/process/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
